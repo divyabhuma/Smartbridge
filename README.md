@@ -59,5 +59,6 @@ Explored real-world applications of data analytics in the EV and green tech doma
 The Visualization Tool for Data Analytics is a successful demonstration of using SQL and Tableau to turn raw data into insightful, interactive visualizations. The tool enhances data accessibility for decision-makers, enabling them to gain actionable insights with ease. This project was a valuable learning experience in both technical and collaborative aspects, contributing to the team’s growth as data professionals.
 
 Yotube Link:https://youtu.be/JwgVLea-GE8
+
 Drive Link:https://drive.google.com/drive/folders/17tNRCmSu2T_v3RsGFEpxZfFBTuB7j5lL
 
